@@ -1,0 +1,11 @@
+m
+r.idea
+r.idea/libraries
+msrc/main/java/py/com/bio/biogua/controller
+asrc/main/java/py/com/bio/biogua/dao
+asrc/main/java/py/com/bio/biogua/model
+msrc/main/java/py/com/bio/biogua/security
+msrc/main/java/py/com/bio/biogua/utilities
+msrc/main/resources
+msrc/main/webapp/WEB-INF
+msrc/main/webapp/WEB-INF/views

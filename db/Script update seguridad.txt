@@ -1,0 +1,11 @@
+/*SE ELIMINAN LAS TABLAS*/
+DROP TABLE public.usuarios_roles_esp;
+DROP TABLE public.usuarios_roles;
+DROP TABLE public.roles_pantallas;
+DROP TABLE public.roles_especiales;
+DROP TABLE public.roles;
+DROP TABLE public.pantallas;
+DROP TABLE public.roles_especiales;
+DROP TABLE public.modulos;
+
+/*SE CREAN LAS TABLAS DEL ESQUEMA DE SEGURIDAD*/
